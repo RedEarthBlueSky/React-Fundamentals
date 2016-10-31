@@ -1,0 +1,22 @@
+{
+  "name": "react-fundamentals",
+  "version": "1.0.0",
+  "description": "<img src=\"http://www.reactjsprogram.com/images/reactjsprogram-500.png\" width=\"250\" align=\"right\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedEarthBlueSky/React-Fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReactjsProgram/React-Fundamentals/issues"
+  },
+  "homepage": "https://github.com/ReactjsProgram/React-Fundamentals#readme",
+  "devDependencies": {
+    "jquery": "^3.1.1"
+  }
+}
